@@ -7,7 +7,7 @@ For this project, data from the Citi Bike program in New York City was used and 
 
 The full story on Tableau public can be found here: [link to story](https://public.tableau.com/shared/NF2TX67K3?:display_count=n&:origin=viz_share_link)
 
-![Dashboard](analysis/Dashboard.PNG)
+![Dashboard](analysis/dashboard.PNG)
 
 ![Checkout Times for Users](analysis/TripsByUsers.PNG)
 
